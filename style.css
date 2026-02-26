@@ -35,20 +35,16 @@ img {
   height: auto;
 }
 
-nav {
-  text-decoration-line: none;
-}
-
 nav a:hover {
     color: white;
   }
 
  nav a:visited {
-color: black
+color: black;
   }
 
  nav a:active {
-    color: green
+    color: green;
   }
 
 nav a:link {
