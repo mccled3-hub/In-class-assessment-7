@@ -1,9 +1,20 @@
 /*Add your CSS here*/
-figure {
-  center;
+* {
+  margin: 0;
+  padding: 0;
+  font-size: medium;
+  font-family: Courier;
+
 }
 
+img {
+  width: 100%;
+  height: auto;
+}
 
+footer a:hover {
+text-decoration: none;
+}
 
 
 
