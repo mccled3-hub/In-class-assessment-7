@@ -1,9 +1,11 @@
 /*Add your CSS here*/
 * {
-  background-color: rgba(190, 190, 190, 0.437);
+  background-color: rgba(1, 255, 35, 0.14);
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
   font-family: Courier;
+  color:black
 }
 
 p {
@@ -11,14 +13,14 @@ font-size: 18px;
 text-align: center;
 }
 
-figcaption {
-  font-size: 28px;
+.caption {
+  font-size: 30px;
   text-align: center;
   color:aqua
 }
 
 h1 {
-  font-size: 40px;
+  font-size: 50px;
   color: rgb(0, 229, 255);
 }
 
@@ -28,8 +30,28 @@ h2 {
 }
 
 img {
-  width: 100%;
+  width: 100vw;
   height: auto;
+}
+
+nav {
+  text-decoration: none;
+}
+
+a:hover {
+    color: white;
+  }
+
+  a:visited {
+color: black
+  }
+
+  a:active {
+    color: green
+  }
+
+a:link {
+  color: blue;
 }
 
 footer a:hover {
