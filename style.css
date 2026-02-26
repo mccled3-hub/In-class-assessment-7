@@ -1,6 +1,6 @@
 /*Add your CSS here*/
 * {
-  background-color: rgb(27, 68, 0);
+  background-color: rgb(46, 112, 1);
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -16,6 +16,7 @@ text-align: center;
 .caption {
   font-size: 30px;
   text-align: center;
+  font-style: italic; 
   color:aqua
 }
 
@@ -35,8 +36,7 @@ img {
 }
 
 nav {
-  text-decoration: none;
-  font-size: 12px;
+  text-decoration-line: none;
 }
 
 nav a:hover {
