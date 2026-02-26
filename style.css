@@ -34,21 +34,23 @@ img {
   height: auto;
 }
 
+nav {
+  text-decoration: none;
+}
 
-
-a:hover {
+nav a:hover {
     color: white;
   }
 
-  a:visited {
+ nav a:visited {
 color: black
   }
 
-  a:active {
+ nav a:active {
     color: green
   }
 
-a:link {
+nav a:link {
   color: blue;
 }
 
