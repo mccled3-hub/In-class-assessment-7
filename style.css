@@ -1,10 +1,22 @@
 /*Add your CSS here*/
 * {
+  background-color: rgba(141, 255, 65, 0.311);
   margin: 0;
   padding: 0;
   font-size: medium;
   font-family: Courier;
+}
 
+p {
+text-align: center;
+}
+
+h1 {
+  color:aquamarine
+}
+
+h2 {
+  color:rgb(69, 94, 32) 
 }
 
 img {
