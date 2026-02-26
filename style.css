@@ -5,12 +5,11 @@
   padding: 0;
   box-sizing: border-box;
   font-family: Courier;
-  color:black
 }
 
 p {
-font-size: 18px;
-text-align: center;
+  font-size: 18px;
+  text-align: center;
 }
 
 .caption {
@@ -43,11 +42,11 @@ nav a:hover {
     color: white;
   }
 
- nav a:visited {
-color: black;
+nav a:visited {
+  color: black;
   }
 
- nav a:active {
+nav a:active {
     color: green;
   }
 
@@ -56,7 +55,7 @@ nav a:link {
 }
 
 footer a:hover {
-text-decoration: none;
+  text-decoration: none;
 }
 
 
